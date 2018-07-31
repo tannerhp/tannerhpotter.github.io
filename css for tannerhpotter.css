@@ -1,0 +1,35 @@
+header {
+        font-size: 50px;
+        color: orange
+        }
+body {
+        font-family: arial;
+        font-size: 20px;
+        color: rgb(34,139,34);
+        background-color: white;
+        margin-left: 25px;
+        padding: 0;
+
+      }
+/* p { border: 1px solid powderblue;} --> */
+h2   {
+        font-size: 40px;
+        color: orange;
+        text-align: center;
+      }
+
+img  {
+        border-style: solid;
+        border-color: green;
+        text-align: center;
+      }
+
+strong {
+          font-style: italic;
+          text-transform: uppercase;
+      }
+
+      li {
+          color: black;
+          font-style: italic;
+      }
