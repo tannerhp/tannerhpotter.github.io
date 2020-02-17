@@ -1,12 +1,13 @@
 header {
         font-size: 50px;
-        color: orange
+        color: orange;
+        text-align: center
         }
 body {
         font-family: arial;
         font-size: 20px;
         color: rgb(34,139,34);
-        background-color: white;
+        background-color: azure;
         margin-left: 25px;
         padding: 0;
 
